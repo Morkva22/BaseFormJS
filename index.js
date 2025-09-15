@@ -1,2 +1,2 @@
-console.log('Salut Lume')
+console.log('')
 
